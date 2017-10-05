@@ -13,7 +13,7 @@ Nous sommes les agents qui incarnent les valeurs d'une époque. Le siècle expri
 
 Imaginaires de la médecine:
 
-* Le modèle hydraulique
+* Le modèle automatique
 
 * Le modèle énergétique
 
