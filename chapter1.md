@@ -28,7 +28,7 @@ Lire une époque au travers des mythes dans laquelle elle se reconnaît s'appell
 
 # **Les Grecs**
 
-4 valeurs chez les Grecs
+Quatre valeurs sont celles de la Grèce Antique:
 
 -Les Dieux veulent la guerre / les hommes aiment la guerre
 
