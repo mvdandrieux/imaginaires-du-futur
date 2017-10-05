@@ -6,5 +6,3 @@ Le rôle d'un sociologue est de lire entre les lignes
 
 
 
-coucou !
-
