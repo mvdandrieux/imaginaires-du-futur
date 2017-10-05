@@ -1,6 +1,7 @@
 # Qu'est-ce qu'être un bon contemporain
 
-Être un bon contemporain, c'est d'abord être synchronisé avec son époque \(c'est l'acceptation de son environnement qui fait de nous un contemporain\)
+Être un bon contemporain, c'est d'abord être synchronisé avec son époque \(c'est l'acceptation de son environnement qui fait de nous un contemporain\)  
+Se désynchronisé, être dépareillé procure le sentiment d'être dépassé, marginal, à l'écart. 
 
 Le rôle d'un sociologue est de lire entre les lignes, les espaces dans la société.
 
@@ -25,8 +26,7 @@ Imaginaires de la médecine:
 
 Lire une époque au travers des mythes dans laquelle elle se reconnaît s'appelle la mythanalyse
 
-
-# **Les Grecs** 
+# **Les Grecs**
 
 4 valeurs chez les Grecs
 
@@ -38,8 +38,6 @@ Lire une époque au travers des mythes dans laquelle elle se reconnaît s'appell
 
 -L’hospitalité héréditaire. Chez les Grecs, on reçoit d'abord, on s'enquière d'une demande ou d'informations ensuite.
 
-La mythanalyse:_ «Lire l’époque au travers des mythes dans lesquels elle se reconnaît.»  
-_Gilbert Durant
-
-
+La mythanalyse:\_ «Lire l’époque au travers des mythes dans lesquels elle se reconnaît.»  
+\_Gilbert Durant
 
