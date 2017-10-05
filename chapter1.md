@@ -4,3 +4,5 @@ une grande partie de toutes les activités humaines repose sur être bien avec s
 
 Le rôle d'un sociologue est de lire entre les lignes
 
+Gilbert Durand, résistant de la première heure qui a passé plusieurs années dans les prisons allemandes, affirmera à son retour que l'imaginaire est bien un phénomène social.
+
