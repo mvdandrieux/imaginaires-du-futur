@@ -26,3 +26,20 @@ Imaginaires de la médecine:
 Lire une époque au travers des mythes dans laquelle elle se reconnaît s'appelle la mythanalyse
 
 
+# **Les Grecs** 
+
+4 valeurs chez les Grecs
+
+-Les Dieux veulent la guerre / les hommes aiment la guerre
+
+-La mesure et le destin
+
+-La part des Dieux: accepter qu’une partie de ce qu’on produit ne nous appartient pas.
+
+-L’hospitalité héréditaire. Chez les Grecs, on reçoit d'abord, on s'enquière d'une demande ou d'informations ensuite.
+
+La mythanalyse:_ «Lire l’époque au travers des mythes dans lesquels elle se reconnaît.»  
+_Gilbert Durant
+
+
+
