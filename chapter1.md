@@ -25,9 +25,7 @@ Imaginaires de la médecine:
 
 Lire une époque au travers des mythes dans laquelle elle se reconnaît s'appelle la mythanalyse.
 
-Les principes de la Grèce antique sont la guerre, lot de l'homme, la mesure et le destin, la part des dieux, et l'hospitalité héréditaire.
-
-# **Les Grecs** 
+# **Les Grecs**
 
 4 valeurs chez les Grecs
 
@@ -39,8 +37,6 @@ Les principes de la Grèce antique sont la guerre, lot de l'homme, la mesure et 
 
 -L’hospitalité héréditaire. Chez les Grecs, on reçoit d'abord, on s'enquière d'une demande ou d'informations ensuite.
 
-La mythanalyse:_ «Lire l’époque au travers des mythes dans lesquels elle se reconnaît.»  
-_Gilbert Durant
-
-
+La mythanalyse:\_ «Lire l’époque au travers des mythes dans lesquels elle se reconnaît.»  
+\_Gilbert Durant
 
