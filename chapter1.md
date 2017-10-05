@@ -41,7 +41,7 @@ Quatre valeurs sont celles de la Grèce Antique:
 La mythanalyse:\_ «Lire l’époque au travers des mythes dans lesquels elle se reconnaît.»  
 \_Gilbert Durant
 
-# **Notre imaginaire après la seconde guerre mondiale.** 
+# **Notre imaginaire après la seconde guerre mondiale.**
 
 **Economie**: Abondance et rareté. \(L’énergie c’est la puissance, le pouvoir: il fallait dépenser de l’énergie, laisser toutes les lumières allumées.
 
@@ -57,5 +57,10 @@ Aujourd’hui: économie de la rareté: la multiplication des biens et des moyen
 
 **Citoyenneté**: émancipation vs relation.
 
-**Entreprises**: Pourvoyeuse vs Prédatrice \( bullshit jobs\)
+**Entreprises**: Pourvoyeuse vs Prédatrice \( bullshit jobs\)  
+
+
+# **Diviser pour dominer: valeur de la modernité**
+
+
 
