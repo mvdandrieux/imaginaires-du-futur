@@ -23,8 +23,9 @@ Imaginaires de la médecine:
 
 * Le modèle quantique
 
-Lire une époque au travers des mythes dans laquelle elle se reconnaît s'appelle la mythanalyse
+Lire une époque au travers des mythes dans laquelle elle se reconnaît s'appelle la mythanalyse.
 
+Les principes de la Grèce antique sont la guerre, lot de l'homme, la mesure et le destin, la part des dieux, et l'hospitalité héréditaire.
 
 # **Les Grecs** 
 
