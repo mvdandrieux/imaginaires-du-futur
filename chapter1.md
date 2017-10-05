@@ -1,7 +1,7 @@
 # Qu'est-ce qu'être un bon contemporain
 
 Être un bon contemporain, c'est d'abord être synchronisé avec son époque \(c'est l'acceptation de son environnement qui fait de nous un contemporain\)  
-Se désynchronisé, être dépareillé procure le sentiment d'être dépassé, marginal, à l'écart. 
+Se désynchronisé, être dépareillé procure le sentiment d'être dépassé, marginal, à l'écart.
 
 Le rôle d'un sociologue est de lire entre les lignes, les espaces dans la société.
 
@@ -28,7 +28,7 @@ Lire une époque au travers des mythes dans laquelle elle se reconnaît s'appell
 
 # **Les Grecs**
 
-4 valeurs chez les Grecs
+Quatre valeurs sont celles de la Grèce Antique:
 
 -Les Dieux veulent la guerre / les hommes aiment la guerre
 
