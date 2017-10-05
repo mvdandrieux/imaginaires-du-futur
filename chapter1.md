@@ -13,7 +13,9 @@ Nous sommes les agents qui incarnent les valeurs d'une époque. Le siècle expri
 
 Imaginaires de la médecine:
 
-* Le modèle automatique
+* Le modèle hydraulique: l'afflux du sang est la cause des maladies du corps. On pratique saignées, sangsues
+
+* Le modèle automatique: le corps est une machine
 
 * Le modèle énergétique
 
@@ -21,5 +23,6 @@ Imaginaires de la médecine:
 
 * Le modèle quantique
 
+Lire une époque au travers des mythes dans laquelle elle se reconnaît s'appelle la mythanalyse
 
 
