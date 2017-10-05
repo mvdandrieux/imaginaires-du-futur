@@ -6,5 +6,3 @@ Le r√¥le d'un sociologue est de lire entre les lignes, les espaces dans la soci√
 
 
 
-coucou !
-
