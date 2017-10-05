@@ -9,7 +9,7 @@ Gilbert Durand, résistant de la première heure qui a passé plusieurs années 
 _"L'imaginaire, c'est l'ensemble des images et des relations d'images qui constitue le capital pensé d'Homo Sapiens"  
 Gilbert Durand_
 
-Nous sommes les agents qui incarnent les valeurs d'une époque. Le siècle exprime ces valeurs par le dessous.
+Nous sommes les agents qui incarnent les valeurs d'une époque. Le siècle exprime ses valeurs par le dessous.
 
 Imaginaires de la médecine:
 
