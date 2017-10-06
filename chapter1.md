@@ -1,5 +1,7 @@
 # Qu'est-ce qu'être un bon contemporain
 
+_Argument : Une grande partie des activités humaines peuvent être entendues comme des tentatives de synchronisation : l’homme veut faire partie de son temps. Rien n’est pire que de n’être “plus dans le coup”. En s’interrogeant sur ces techniques d’harmonisation entre le temps présent et le temps projeté, entre le lieu vécu et le lieu rêvé, nous pourrons comprendre, au-delà de ce que les sociétés font, ce qu’elles “veulent faire”._
+
 Être un bon contemporain, c'est d'abord être synchronisé avec son époque \(c'est l'acceptation de son environnement qui fait de nous un contemporain\)  
 Se désynchronisé, être dépareillé procure le sentiment d'être dépassé, marginal, à l'écart.
 
@@ -57,8 +59,7 @@ Aujourd’hui: économie de la rareté: la multiplication des biens et des moyen
 
 **Citoyenneté**: émancipation vs relation.
 
-**Entreprises**: Pourvoyeuse vs Prédatrice \( bullshit jobs\)  
-
+**Entreprises**: Pourvoyeuse vs Prédatrice \( bullshit jobs\)
 
 # **Diviser pour dominer: valeur de la modernité**
 
