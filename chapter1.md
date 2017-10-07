@@ -32,8 +32,6 @@ Lire une époque au travers des mythes dans laquelle elle se reconnaît s'appell
 
 Comprendre son époque signifie aussi vivre à travers ses mythes et saisir ce qu'ils disent de leur époque. Le mythe le plus connu de la mythologie, l'Odyssée écrit par Homère au VIIIe siècle avant J-C véhicule toutes les valeurs de son époque:
 
-
-
 Quatre valeurs sont celles de la Grèce Antique:
 
 -Les Dieux veulent la guerre / les hommes aiment la guerre
