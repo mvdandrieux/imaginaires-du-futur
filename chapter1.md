@@ -2,9 +2,26 @@
 
 _Argument : Une grande partie des activités humaines peuvent être entendues comme des tentatives de synchronisation : l’homme veut faire partie de son temps. Rien n’est pire que de n’être “plus dans le coup”. En s’interrogeant sur ces techniques d’harmonisation entre le temps présent et le temps projeté, entre le lieu vécu et le lieu rêvé, nous pourrons comprendre, au-delà de ce que les sociétés font, ce qu’elles “veulent faire”._
 
+## Qu’est-ce qu’une époque
+
 Être un bon contemporain, c'est d'abord être synchronisé avec son époque \(c'est l'acceptation de son environnement qui fait de nous un contemporain\). Alors qu'au contraire se désynchronisé, être dépareillé procure le sentiment d'être dépassé, marginal, à l'écart.
 
 Mais qu'est-ce qu'une époque? L'époque après la Seconde Guerre mondiale...
+
+> “Une épistémè, c’est la confluence des mots, des choses et des actes”  
+> Michel Foucault
+
+Une époque, c’est une parenthèse.
+
+> "Le Zeitgeist, l’âme sentante dans laquelle prend ses origines le geste philosophique" Georg Wilhelm Friedrich Hegel
+
+…Aeon / Paradigme / Genius Seculi…
+
+> “Le siècle appartient au principe, et non pas le principe au siècle. Le principe fait l'histoire et non pas l'inverse.” Karl Marx
+
+> “L’imaginaire, c’est l’ensemble des images et des relations d’images qui constitue le capital pensé de l’homo sapiens” Gilbert Durand
+
+
 
 Mais en réalité, l'époque se défini par son mythe, par une idée omniprésente qui se diffuse à travers l’état d’esprit collectif propre à une époque déterminée. Hegel \(1770-1831\), philosophe allemand, avait déjà remarqué cette particularité qui permettait de définir une époque. Il l'a appelé « âme sentante », le _Zeitgeist, \_littéralement le "fantôme du temps"_.\_
 
@@ -35,7 +52,7 @@ Imaginaires de la médecine:
 
 Lire une époque au travers des mythes dans laquelle elle se reconnaît s'appelle la mythanalyse.
 
-# **Les Grecs**
+### L'imaginaire des** Grecs anciens**
 
 Comprendre son époque signifie aussi vivre à travers ses mythes et saisir ce qu'ils disent de leur époque. Le mythe le plus connu de la mythologie, est l'Odyssée écrit par Homère au VIIIe siècle avant J-C, il véhicule toutes les valeurs de son époque :
 
@@ -54,31 +71,24 @@ La mythanalyse: travail qui cherche des mythes dans lesquels on se reconnait\_ �
 
 Mais finalement, quel est l'imaginaire de notre époque?
 
-# **Notre imaginaire après la seconde guerre mondiale.**
+# **Notre imaginaire après la seconde guerre mondiale**
 
-Les petites révolutions :
+Les révolutions minuscules :
 
-**Economie**: Abondance et rareté. \(L’énergie c’est la puissance, le pouvoir: il fallait dépenser de l’énergie, laisser toutes les lumières allumées.
+* **Economie**: Abondance et rareté. \(L’énergie c’est la puissance, le pouvoir: il fallait dépenser de l’énergie, laisser toutes les lumières allumées.
+* Aujourd’hui: économie de la rareté: la multiplication des biens et des moyens d’accès accentue l’effet de demande: plus on a, plus on en veut. Position de rareté. On est passé à un imaginaire de l’abondance à un imaginaire de la rareté.
+* **Production**: Localismes, crowd funding, impr 3D.
+* **Travail**: valeur différentiante vs valeur complémentaire.
+* **Possession**: Trésor caché vs Transit: accumuler vs produire de la valeur.
+* **Savoir**: Plus de data en 2012 que dans l’histoire de l’humanité.
+* **Citoyenneté**: émancipation vs relation.
+* **Entreprises**: Pourvoyeuse vs Prédatrice \( bullshit jobs\)
 
-Aujourd’hui: économie de la rareté: la multiplication des biens et des moyens d’accès accentue l’effet de demande: plus on a, plus on en veut. Position de rareté. On est passé à un imaginaire de l’abondance à un imaginaire de la rareté.
+### **Diviser pour dominer: valeur de la modernité**
 
-**Production**: Localismes, crowd funding, impr 3D.
+En 2003, Marcel Bolle de Bal fait émerger 3 notions sociologiques
 
-**Travail**: valeur différentiante vs valeur complémentaire.
-
-**Possession**: Trésor caché vs Transit: accumuler vs produire de la valeur.
-
-**Savoir**: Plus de data en 2012 que dans l’histoire de l’humanité.
-
-**Citoyenneté**: émancipation vs relation.
-
-**Entreprises**: Pourvoyeuse vs Prédatrice \( bullshit jobs\)
-
-# **Diviser pour dominer: valeur de la modernité**
-
-En 2003, Marcel Bolle de Barl fait émerger 3 notions sociologiques
-
-* la déliance : pour aborder le monde il faut le diviser
+* la déliance
 * la reliance
 * la liance
 
