@@ -8,7 +8,7 @@ Mais qu'est-ce qu'une époque? L'époque après la Seconde Guerre mondiale...
 
 Mais en réalité, l'époque se défini par son mythe, par une idée omniprésente qui se diffuse à travers l’état d’esprit collectif propre à une époque déterminée. Hegel \(1770-1831\), philosophe allemand, avait déjà remarqué cette particularité qui permettait de définir une époque. Il l'a appelé « âme sentante », le _Zeitgeist, \_littéralement le "fantôme du temps"_.\_
 
-O peut aussi parler d'Acon, ensemble de valeurs qui parcours le temps.
+O peut aussi parler d'Æon, ensemble de valeurs qui parcours le temps.
 
 Karl Marx parlait, lui, du génie du siècle. "Le siècle appartient au principe et non pas le principe au siècle. Le principe fait l'histoire et non pas l'inverse." Paradigme
 
@@ -52,7 +52,7 @@ Quatre valeurs sont celles de la Grèce Antique :
 La mythanalyse: travail qui cherche des mythes dans lesquels on se reconnait\_ «Lire l’époque au travers des mythes dans lesquels elle se reconnaît.»  
 \_Gilbert Durant
 
-Mais finalement, quel est l'imaginaire de notre époque? 
+Mais finalement, quel est l'imaginaire de notre époque?
 
 # **Notre imaginaire après la seconde guerre mondiale.**
 
