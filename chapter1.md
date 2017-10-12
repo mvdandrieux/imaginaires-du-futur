@@ -16,8 +16,8 @@ L'imaginaire c'est un ensemble d'éléments de valeurs qui vont produire dans le
 
 Gilbert Durand, résistant de la première heure qui a passé plusieurs années dans les prisons allemandes, affirmera à son retour que l'imaginaire est bien un phénomène social.
 
-_"L'imaginaire, c'est l'ensemble des images et des relations d'images qui constitue le capital pensé de l'Homo Sapiens"  
-Gilbert Durand_
+> _"L'imaginaire, c'est l'ensemble des images et des relations d'images qui constitue le capital pensé de l'Homo Sapiens"  
+> Gilbert Durand_
 
 Nous sommes les agents qui incarnent les valeurs d'une époque. Le siècle exprime ses valeurs par le dessous.
 
