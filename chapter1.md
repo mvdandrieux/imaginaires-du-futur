@@ -8,9 +8,5 @@ Je m'interrogeais sur la possibilité de travailler avec Franck Ghitalla dans "l
 
 "Il faut du chaos en soi pour faire naitre une étoile qui danse." Friedrich Nietzsche.
 
-
-
-
-
-
+"Un livre c'est une tentative d'ordre sur le désordre." Sylvain Tesson.
 
