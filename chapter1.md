@@ -2,9 +2,17 @@
 
 _Argument : Une grande partie des activités humaines peuvent être entendues comme des tentatives de synchronisation : l’homme veut faire partie de son temps. Rien n’est pire que de n’être “plus dans le coup”. En s’interrogeant sur ces techniques d’harmonisation entre le temps présent et le temps projeté, entre le lieu vécu et le lieu rêvé, nous pourrons comprendre, au-delà de ce que les sociétés font, ce qu’elles “veulent faire”._
 
-## Qu’est-ce qu’une époque
+
+
+## Qu’est-ce  qu’une époque
 
 Être un bon contemporain, c'est d'abord être synchronisé avec son époque \(c'est l'acceptation de son environnement qui fait de nous un contemporain\). Alors qu'au contraire se désynchronisé, être dépareillé procure le sentiment d'être dépassé, marginal, à l'écart.
+
+Un bon contemporain sais lire dans les époques. Mais l'époque si il faut la construire est toujours faites de choix. L'époque se constitue d'éléments non-advenus que le contemporain fait jaillir. En ça il n'est en marge que par le choix d'apporter un croisement inédit entre plusieurs images. Car ces images appartiennent aux imaginaires passés, aux mythes et aux époques.
+
+Quand la diversité s'agrandit, l'époque évolue.
+
+
 
 Mais qu'est-ce qu'une époque? L'époque après la Seconde Guerre mondiale...
 
@@ -18,10 +26,8 @@ Une époque, c’est une parenthèse.
 …Aeon / Paradigme / Genius Seculi…
 
 > “Le siècle appartient au principe, et non pas le principe au siècle. Le principe fait l'histoire et non pas l'inverse.” Karl Marx
-
+>
 > “L’imaginaire, c’est l’ensemble des images et des relations d’images qui constitue le capital pensé de l’homo sapiens” Gilbert Durand
-
-
 
 Mais en réalité, l'époque se défini par son mythe, par une idée omniprésente qui se diffuse à travers l’état d’esprit collectif propre à une époque déterminée. Hegel \(1770-1831\), philosophe allemand, avait déjà remarqué cette particularité qui permettait de définir une époque. Il l'a appelé « âme sentante », le _Zeitgeist, \_littéralement le "fantôme du temps"_.\_
 
