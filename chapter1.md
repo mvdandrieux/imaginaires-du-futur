@@ -2,17 +2,15 @@
 
 _Argument : Une grande partie des activités humaines peuvent être entendues comme des tentatives de synchronisation : l’homme veut faire partie de son temps. Rien n’est pire que de n’être “plus dans le coup”. En s’interrogeant sur ces techniques d’harmonisation entre le temps présent et le temps projeté, entre le lieu vécu et le lieu rêvé, nous pourrons comprendre, au-delà de ce que les sociétés font, ce qu’elles “veulent faire”._
 
-
-
 ## Qu’est-ce  qu’une époque
 
 Être un bon contemporain, c'est d'abord être synchronisé avec son époque \(c'est l'acceptation de son environnement qui fait de nous un contemporain\). Alors qu'au contraire se désynchronisé, être dépareillé procure le sentiment d'être dépassé, marginal, à l'écart.
 
-Un bon contemporain sais lire dans les époques. Mais l'époque si il faut la construire est toujours faites de choix. L'époque se constitue d'éléments non-advenus que le contemporain fait jaillir. En ça il n'est en marge que par le choix d'apporter un croisement inédit entre plusieurs images. Car ces images appartiennent aux imaginaires passés, aux mythes et aux époques.
+Un bon contemporain sais lire dans les époques. Mais il n'est pas obligé d'en suivre le mouvement. Le présent se constitue d'éléments non-advenus que le contemporain fait jaillir des époques. Le bon contemporain est en marge que par le choix d'apporter des croisements inédits entre plusieurs images. Car ces images appartiennent aux imaginaires passés, aux mythes et aux époques.
 
 Quand la diversité s'agrandit, l'époque évolue.
 
-
+###### https://www.youtube.com/watch?v=vxlNw-vz7l8
 
 Mais qu'est-ce qu'une époque? L'époque après la Seconde Guerre mondiale...
 
