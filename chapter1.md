@@ -6,7 +6,7 @@ _Argument : Une grande partie des activités humaines peuvent être entendues co
 
 Être un bon contemporain, c'est d'abord être synchronisé avec son époque \(c'est l'acceptation de son environnement qui fait de nous un contemporain\). Alors qu'au contraire se désynchroniser, être dépareillé procure le sentiment d'être dépassé, marginal, à l'écart.
 
-Un bon contemporain sais lire dans les époques. Mais il n'est pas obligé d'en suivre le mouvement. Le présent se constitue d'éléments non-advenus que le contemporain fait jaillir des époques. Le bon contemporain est en marge que par le choix d'apporter des croisements inédits entre plusieurs images. Car ces images appartiennent aux imaginaires passés, aux mythes et aux époques.
+Un bon contemporain sais lire dans les époques. Mais il n'est pas obligé d'en suivre le mouvement. Le présent se constitue d'éléments non-advenus que le contemporain fait jaillir des époques. Le bon contemporain est en marge que par le choix d'apporter des croisements inédits entre plusieurs images. Ces images appartiennent aux imaginaires passés, aux mythes et aux époques.
 
 Quand la diversité s'agrandit, l'époque évolue.
 
@@ -31,7 +31,7 @@ Mais en réalité, l'époque se défini par son mythe, par une idée omniprésen
 
 O peut aussi parler d'Æon, ensemble de valeurs qui parcours le temps.
 
-Ces "valeurs" sont intemporels, multiples, diffuses et succinctement dans l'instant. Le Zeitgeist est un parfum que chacun partage mais que peu prennent le temps d'explorer. Le fantôme s'apesante des principes pour comprendre les époques. Karl Marx parle, lui, de génie du siècle. "Le siècle appartient au principe et non pas le principe au siècle. Le principe fait l'histoire et non pas l'inverse." 
+Ces "valeurs" sont intemporels, multiples, diffuses et succinctement dans l'instant. Le Zeitgeist est un parfum que chacun partage mais que peu prennent le temps d'explorer. Le fantôme s'apesante des principes pour comprendre les époques. Karl Marx parle, lui, de génie du siècle. "Le siècle appartient au principe et non pas le principe au siècle. Le principe fait l'histoire et non pas l'inverse."
 
 L'imaginaire c'est un ensemble d'éléments de valeurs qui vont produire dans le réel.
 
