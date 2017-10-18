@@ -27,9 +27,9 @@ Une époque, c’est une parenthèse.
 >
 > “L’imaginaire, c’est l’ensemble des images et des relations d’images qui constitue le capital pensé de l’homo sapiens” Gilbert Durand
 
-Mais en réalité, l'époque se défini par son mythe, par une idée omniprésente qui se diffuse à travers l’état d’esprit collectif propre à une époque déterminée. Hegel \(1770-1831\), philosophe allemand, avait déjà remarqué cette particularité qui permettait de définir une époque. Il l'a appelé « âme sentante », le _Zeitgeist, \_littéralement le "fantôme du temps"_.\_
+Mais en réalité, l'époque se définit par son mythe, par une idée omniprésente qui se diffuse à travers l’état d’esprit collectif propre à une époque déterminée. Hegel \(1770-1831\), philosophe allemand, avait déjà remarqué cette particularité qui permettait de définir une époque. Il l'a appelé « âme sentante », le _Zeitgeist, \_littéralement le "fantôme du temps"_.\_
 
-O peut aussi parler d'Æon, ensemble de valeurs qui parcours le temps.
+On peut aussi parler d'Æon, ensemble de valeurs qui parcourent le temps.
 
 Ces "valeurs" sont intemporels, multiples, diffuses et succinctement dans l'instant. Le Zeitgeist est un parfum que chacun partage mais que peu prennent le temps d'explorer. Le fantôme s'apesante des principes pour comprendre les époques. Karl Marx parle, lui, de génie du siècle. "Le siècle appartient au principe et non pas le principe au siècle. Le principe fait l'histoire et non pas l'inverse."
 
@@ -60,7 +60,7 @@ Lire une époque au travers des mythes dans laquelle elle se reconnaît s'appell
 
 Comprendre son époque signifie aussi vivre à travers ses mythes et saisir ce qu'ils disent de leur époque. Le mythe le plus connu de la mythologie, est l'Odyssée écrit par Homère au VIIIe siècle avant J-C, il véhicule toutes les valeurs de son époque :
 
-Quatre valeurs sont celles de la Grèce Antique :
+Les Grecs vivent sous l'égide de quatre grandes valeurs :
 
 * Les Dieux veulent la guerre / les hommes aiment la guerre
 
