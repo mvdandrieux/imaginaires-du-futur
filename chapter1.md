@@ -4,9 +4,9 @@ _Argument : Une grande partie des activités humaines peuvent être entendues co
 
 ## Qu’est-ce  qu’une époque
 
-Être un bon contemporain, c'est d'abord être synchronisé avec son époque \(c'est l'acceptation de son environnement qui fait de nous un contemporain\). Alors qu'au contraire se désynchroniser, être dépareillé procure le sentiment d'être dépassé, marginal, à l'écart.
+Être un bon contemporain, c'est d'abord être synchronisé avec son époque \(c'est l'acceptation de son environnement qui fait de nous un contemporain\). Au contraire se désynchroniser, être dépareillé procure le sentiment d'être dépassé, marginal, à l'écart.
 
-Un bon contemporain sais lire dans les époques. Mais il n'est pas obligé d'en suivre le mouvement. Le présent se constitue d'éléments non-advenus que le contemporain fait jaillir des époques. Le bon contemporain est en marge que par le choix d'apporter des croisements inédits entre plusieurs images. Ces images appartiennent aux imaginaires passés, aux mythes et aux époques.
+Un bon contemporain sait lire dans les époques. Mais il n'est pas obligé d'en suivre le mouvement. Le présent se constitue d'éléments non-advenus que le contemporain fait jaillir des époques. Le bon contemporain n'est en marge que par le choix d'apporter des croisements inédits entre plusieurs images. Ces images appartiennent aux imaginaires passés, aux mythes et aux époques.
 
 Quand la diversité s'agrandit, l'époque évolue.
 
@@ -17,7 +17,7 @@ Mais qu'est-ce qu'une époque? L'époque après la Seconde Guerre mondiale...
 > “Une épistémè, c’est la confluence des mots, des choses et des actes”  
 > Michel Foucault
 
-Une époque, c’est une parenthèse.
+Une époque,  c’est une parenthèse.
 
 > "Le Zeitgeist, l’âme sentante dans laquelle prend ses origines le geste philosophique" Georg Wilhelm Friedrich Hegel
 
@@ -27,7 +27,7 @@ Une époque, c’est une parenthèse.
 >
 > “L’imaginaire, c’est l’ensemble des images et des relations d’images qui constitue le capital pensé de l’homo sapiens” Gilbert Durand
 
-Mais en réalité, l'époque se définit par son mythe, par une idée omniprésente qui se diffuse à travers l’état d’esprit collectif propre à une époque déterminée. Hegel \(1770-1831\), philosophe allemand, avait déjà remarqué cette particularité qui permettait de définir une époque. Il l'a appelé « âme sentante », le _Zeitgeist, \_littéralement le "fantôme du temps"_.\_
+En réalité, l'époque se définit par son mythe, par une idée omniprésente qui se diffuse à travers l’état d’esprit collectif, propre à une époque déterminée. Hegel \(1770-1831\), philosophe allemand, avait déjà remarqué cette particularité qui permettait de définir une époque. Il l'a appelé « âme sentante », le _Zeitgeist, \_littéralement le "fantôme du temps"_.\_
 
 On peut aussi parler d'Æon, ensemble de valeurs qui parcourent le temps.
 
@@ -42,23 +42,21 @@ Gilbert Durand, résistant de la première heure qui a passé plusieurs années 
 
 Nous sommes les agents qui incarnent les valeurs d'une époque. Le siècle exprime ses valeurs par le dessous.
 
-Imaginaires de la médecine:
+Pour le comprendre, nous pouvons prendre en exemple les différents imaginaires qui ont façonné la médecine :
 
-* Le modèle hydraulique: l'afflux du sang est la cause des maladies du corps. On pratique saignées, sangsues
+* Le modèle hydraulique. C'est l'afflux du sang qui est la cause des maladies du corps. Alors à l'époque, on pratique des saignées, ont fait appel aux sangsues...
 
-* Le modèle automatique: le corps est une machine \(mathématiques, horlogeries\)
+* Le modèle automatique. Le corps est une machine. La pensée mathématique et les systèmes d'horlogeries influencent cet imaginaire
 
-* Le modèle énergétique \(chimique, électrochocs\)
+* Le modèle énergétique, qui fait part belle à la chimie \(électrochocs\)
 
-* Le modèle communicationnel \(humeurs, le cerveau avant tout\)
+* Le modèle communicationnel, où nous sommes régis par nos humeurs via le cerveau, comme pièce maîtresse
 
-* Le modèle quantique \(un ensemble qui fonctionne ensemble\)
-
-Lire une époque au travers des mythes dans laquelle elle se reconnaît s'appelle la mythanalyse.
+* Le modèle quantique, qui nous fait considérer le corps comme un tout qui fonctionne dans son ensemble
 
 ### L'imaginaire des** Grecs anciens**
 
-Comprendre son époque signifie aussi vivre à travers ses mythes et saisir ce qu'ils disent de leur époque. Le mythe le plus connu de la mythologie, est l'Odyssée écrit par Homère au VIIIe siècle avant J-C, il véhicule toutes les valeurs de son époque :
+Comprendre son époque signifie aussi vivre à travers ses mythes et saisir ce qu'ils disent de leur époque. Le mythe le plus connu de la mythologie, l'Odyssée écrit par Homère au VIIIe siècle avant J-C, véhicule toutes les valeurs de son époque :
 
 Les Grecs vivent sous l'égide de quatre grandes valeurs :
 
@@ -70,21 +68,20 @@ Les Grecs vivent sous l'égide de quatre grandes valeurs :
 
 * L’hospitalité héréditaire. Chez les Grecs, on reçoit d'abord, on s'enquière d'une demande ou d'informations ensuite.
 
-La mythanalyse: travail qui cherche des mythes dans lesquels on se reconnait\_ «Lire l’époque au travers des mythes dans lesquels elle se reconnaît.»  
-\_Gilbert Durant
+Mais finalement, quel est l'imaginaire de notre époque? C'est en cherchant les mythes dans lesquels on se reconnait que l'on peut trouver une réponse; le principe de la mythanalyse.
 
-Mais finalement, quel est l'imaginaire de notre époque?
+\_ «Lire l’époque au travers des mythes dans lesquels elle se reconnaît.»\_Gilbert Durant
 
 # **Notre imaginaire après la seconde guerre mondiale**
 
 Les révolutions minuscules :
 
-* **Economie**: Abondance et rareté. \(L’énergie c’est la puissance, le pouvoir: il fallait dépenser de l’énergie, laisser toutes les lumières allumées.
-* Aujourd’hui: économie de la rareté: la multiplication des biens et des moyens d’accès accentue l’effet de demande: plus on a, plus on en veut. Position de rareté. On est passé à un imaginaire de l’abondance à un imaginaire de la rareté.
-* **Production**: Localismes, crowd funding, impr 3D.
-* **Travail**: valeur différentiante vs valeur complémentaire.
+* **Economie**: Abondance et rareté. L’énergie est perçue comme symbole de puissance, de pouvoir : il fallait montrer qu'on dépensait de l’énergie, laisser toutes les lumières allumées.
+* Aujourd’hui: Nous sommes dans l'économie de la rareté : la multiplication des biens et des moyens d’accès accentue l’effet de demande : plus nous avons, et plus nous voulons. Position de rareté. Nous sommes passé d'un imaginaire de l’abondance à un imaginaire de la rareté.
+* **Production**: Localismes, crowd funding, impression 3D.
+* **Travail**: Valeur différentiante s'oppose à la valeur complémentaire.
 * **Possession**: Trésor caché vs Transit: accumuler vs produire de la valeur.
-* **Savoir**: Plus de data en 2012 que dans l’histoire de l’humanité.
+* **Savoir**: Nous avons produit plus de data en 2012 que dans toute l’histoire de l’humanité.
 * **Citoyenneté**: émancipation vs relation.
 * **Entreprises**: Pourvoyeuse vs Prédatrice \( bullshit jobs\)
 
@@ -96,13 +93,13 @@ En 2003, Marcel Bolle de Bal fait émerger 3 notions sociologiques
 * la reliance
 * la liance
 
-Diviser pour vaincre, diviser pour comprendre de René Descartes, diviser pour régner de Machiavel, diviser pour produire de Taylor, diviser pour habiter de Marx \(la valeur du travail, le travail comme destin, tripalium/oper\)
+Diviser pour vaincre, diviser pour comprendre de René Descartes, diviser pour régner de Machiavel, diviser pour produire de Taylor, diviser pour habiter de Marx \(la valeur du travail, le travail comme destin, tripalium/oper\). Cette division a été inconsciemment le leitmotiv de la modernité.
 
-La modernité est une rationalisation socio-technique finalement est déterminée par une domination et une division. David Riesman parle de "Foule Solitaire", Albert Camus décrit "une fourmilière d'hommes seuls". Solitude collective de Martin Buber
+La modernité est une rationalisation socio-technique, déterminée par une domination et une division. David Riesman parle de "Foule Solitaire", Albert Camus décrit "une fourmilière d'hommes seuls", Martin Buber parle quand à lui de Solitude collective.
 
-Augustin Berque : la modernité c'est le vrai, c'est le beau, c'et le bien.
+Pour Augustin Berque : la modernité c'est le vrai, c'est le beau, c'est le bien.
 
-Définir notre époque comme un système d'alliance et de reliance
+**Par opposition notre époque peut se définir comme un système d'alliance et de reliance.**
 
 Le but de l'art moderne n'est pas d'être beau mais de créer un débat, c'est le débat qui fait l'oeuvre. Nous entrons dans une zone de haute pression imaginaire.
 
