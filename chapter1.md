@@ -44,7 +44,7 @@ Nous sommes les agents qui incarnent les valeurs d'une époque. Le siècle expri
 
 Pour le comprendre, nous pouvons prendre en exemple les différents imaginaires qui ont façonné la médecine :
 
-* Le modèle hydraulique. C'est l'afflux du sang qui est la cause des maladies du corps. Alors à l'époque, on pratique des saignées, ont fait appel aux sangsues...
+* Le modèle hydraulique. C'est l'afflux du sang qui est la cause des maladies du corps. Alors à l'époque, on pratique des saignées, on fait appel aux sangsues...
 
 * Le modèle automatique. Le corps est une machine. La pensée mathématique et les systèmes d'horlogeries influencent cet imaginaire
 
