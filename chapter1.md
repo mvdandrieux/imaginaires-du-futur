@@ -79,7 +79,7 @@ Les révolutions minuscules :
 * **Economie**: Abondance et rareté. L’énergie est perçue comme symbole de puissance, de pouvoir : il fallait montrer qu'on dépensait de l’énergie, laisser toutes les lumières allumées.
 * Aujourd’hui: Nous sommes dans l'économie de la rareté : la multiplication des biens et des moyens d’accès accentue l’effet de demande : plus nous avons, et plus nous voulons. Position de rareté. Nous sommes passé d'un imaginaire de l’abondance à un imaginaire de la rareté.
 * **Production**: Localismes, crowd funding, impression 3D.
-* **Travail**: Valeur différentiante s'oppose à la valeur complémentaire.
+* **Travail**: La valeur différentiante s'oppose à la valeur complémentaire.
 * **Possession**: Trésor caché vs Transit: accumuler vs produire de la valeur.
 * **Savoir**: Nous avons produit plus de data en 2012 que dans toute l’histoire de l’humanité.
 * **Citoyenneté**: émancipation vs relation.
