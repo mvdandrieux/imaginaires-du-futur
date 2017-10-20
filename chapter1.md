@@ -12,6 +12,12 @@ Quand la diversité s'agrandit, l'époque évolue.
 
 https://www.youtube.com/watch?v=vxlNw-vz7l8
 
+Je m'interrogeais sur la possibilité de travailler avec Franck Ghitalla dans "l'écriture" de ce livre. Si il nous faut parfois prendre des directions, des entre-croisements, des chemins, la cartographie pourrais être un moyen de créer un livre ubiquiste. Capable de retracer nos accords \(synchronies\) mais aussi leurs dissonance. Si nous voulons comprendre notre époque, il nous faut en saisir ses multiples nuances. L'harmonie se décompose toujours.
+
+"Il faut du chaos en soi pour faire naitre une étoile qui danse." Friedrich Nietzsche.
+
+"Un livre c'est une tentative d'ordre sur le désordre." Sylvain Tesson.
+
 Mais qu'est-ce qu'une époque? L'époque après la Seconde Guerre mondiale...
 
 > “Une épistémè, c’est la confluence des mots, des choses et des actes” Michel Foucault
