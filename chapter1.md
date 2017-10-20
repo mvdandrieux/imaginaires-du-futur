@@ -2,7 +2,7 @@
 
 _Argument : Une grande partie des activités humaines peuvent être entendues comme des tentatives de synchronisation : l’homme veut faire partie de son temps. Rien n’est pire que de n’être “plus dans le coup”. En s’interrogeant sur ces techniques d’harmonisation entre le temps présent et le temps projeté, entre le lieu vécu et le lieu rêvé, nous pourrons comprendre, au-delà de ce que les sociétés font, ce qu’elles “veulent faire”._
 
-## Qu’est-ce  qu’une époque
+## Qu'est-ce  qu'une époque
 
 Être un bon contemporain, c'est d'abord être synchronisé avec son époque \(c'est l'acceptation de son environnement qui fait de nous un contemporain\). Au contraire se désynchroniser, être dépareillé procure le sentiment d'être dépassé, marginal, à l'écart.
 
