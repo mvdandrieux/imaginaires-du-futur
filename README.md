@@ -8,5 +8,3 @@ Personne n'écrit ces lignes — mais le personne d'Ulysse. Pas un robot, mais u
 
 Michel Foucault, « Il faut défendre la société » Cours du 7 janvier 1976
 
-
-
