@@ -2,7 +2,7 @@
 
 Argument : Une grande partie des activités humaines peuvent être entendues comme des tentatives de synchronisation : l’homme veut faire partie de son temps. Rien n’est pire que de n’être “plus dans le coup”. En s’interrogeant sur ces techniques d’harmonisation entre le temps présent et le temps projeté, entre le lieu vécu et le lieu rêvé, nous pourrons comprendre, au-delà de ce que les sociétés font, ce qu’elles “veulent faire”.
 
-## Qu'est-ce  qu'une époque
+## Qu'est-ce qu'une époque
 
 Être un bon contemporain, c'est d'abord être synchronisé avec son époque \(c'est l'acceptation de son environnement qui fait de nous un contemporain\). Au contraire se désynchroniser, être dépareillé procure le sentiment d'être dépassé, marginal, à l'écart.
 
@@ -16,9 +16,9 @@ Mais qu'est-ce qu'une époque? L'époque après la Seconde Guerre mondiale...
 
 > “Une épistémè, c’est la confluence des mots, des choses et des actes” Michel Foucault
 
-Une époque,  c’est une parenthèse.
+Une époque, c’est une parenthèse.
 
-> "Le Zeitgeist, l’âme sentante dans laquelle prend ses origines le geste philosophique" Georg Wilhelm Friedrich Hegel
+"Le Zeitgeist, l’âme sentante dans laquelle prend ses origines le geste philosophique" Georg Wilhelm Friedrich Hegel
 
 …Aeon / Paradigme / Genius Seculi…
 
@@ -35,6 +35,8 @@ Ces "valeurs" sont intemporels, multiples, diffuses et succinctement dans l'inst
 L'imaginaire c'est un ensemble d'éléments de valeurs qui vont produire dans le réel.
 
 Gilbert Durand, résistant de la première heure qui a passé plusieurs années dans les prisons allemandes, affirmera à son retour que l'imaginaire est bien un phénomène social.
+
+> "L'imaginaire, c'est l'ensemble des images et des relations d'images qui constitue le capital pensé de l'Homo Sapiens" Gilbert Durand
 
 Nous sommes les agents qui incarnent les valeurs d'une époque. Le siècle exprime ses valeurs par le dessous.
 
@@ -54,25 +56,20 @@ Comprendre son époque signifie aussi vivre à travers ses mythes et saisir ce q
 
 Les Grecs vivent sous l'égide de quatre grandes valeurs :
 
-Les Dieux veulent la guerre / les hommes aiment la guerre
-
-La mesure et le destin
-
-La part des Dieux: accepter qu’une partie de ce qu’on produit ne nous appartient pas.
-
-L’hospitalité héréditaire. Chez les Grecs, on reçoit d'abord, on s'enquière d'une demande ou d'informations ensuite.
+1. Les Dieux veulent la guerre / les hommes aiment la guerre
+2. La mesure et le destin
+3. La part des Dieux: accepter qu’une partie de ce qu’on produit ne nous appartient pas
+4. L’hospitalité héréditaire. Chez les Grecs, on reçoit d'abord, on s'enquière d'une demande ou d'informations ensuite.
 
 Mais finalement, quel est l'imaginaire de notre époque? C'est en cherchant les mythes dans lesquels on se reconnait que l'on peut trouver une réponse; le principe de la mythanalyse.
 
-\_ «Lire l’époque au travers des mythes dans lesquels elle se reconnaît.»\_Gilbert Durant
+> \_ «Lire l’époque au travers des mythes dans lesquels elle se reconnaît.»\_Gilbert Durand
 
 ## Notre imaginaire après la seconde guerre mondiale
 
 Les révolutions minuscules :
 
-Economie: Abondance et rareté. L’énergie est perçue comme symbole de puissance, de pouvoir : il fallait montrer qu'on dépensait de l’énergie, laisser toutes les lumières allumées.
-
-Aujourd’hui: Nous sommes dans l'économie de la rareté : la multiplication des biens et des moyens d’accès accentue l’effet de demande : plus nous avons, et plus nous voulons. Position de rareté. Nous sommes passé d'un imaginaire de l’abondance à un imaginaire de la rareté.
+* Economie: Abondance et rareté. L’énergie est perçue comme symbole de puissance, de pouvoir : il fallait montrer qu'on dépensait de l’énergie, laisser toutes les lumières allumées. Aujourd’hui: Nous sommes dans l'économie de la rareté : la multiplication des biens et des moyens d’accès accentue l’effet de demande : plus nous avons, et plus nous voulons. Position de rareté. Nous sommes passé d'un imaginaire de l’abondance à un imaginaire de la rareté.
 
 * Production: Localismes, crowd funding, impression 3D.
 * Travail: La valeur différentiante s'oppose à la valeur complémentaire.
