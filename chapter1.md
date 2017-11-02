@@ -75,17 +75,16 @@ Mais finalement, quel est l'imaginaire de notre époque? C'est en cherchant les 
 
 Les révolutions minuscules :
 
-Nous sommes passés d'une économie d'abondance à une économie de la rareté. L’énergie était perçue comme symbole de puissance, de pouvoir : il fallait montrer qu'on la dépensait, laisser toutes les lumières allumées. Aujourd’hui, place à l'économie de la rareté. La multiplication des biens et des moyens d’accès ont accentués l’effet de demande : plus nous avons, plus nous voulons, et nos désirs sont plus grands que ce nous pouvons réellement avoir. Nous sommes passé d'un imaginaire de l’abondance à un imaginaire de la rareté.
+Nous sommes passés d'une économie d'abondance à une économie de la rareté. L’énergie était perçue comme symbole de puissance, de pouvoir : il fallait montrer qu'on la dépensait, laisser toutes les lumières allumées. Aujourd’hui, place à l'économie de la rareté. La multiplication des biens et des moyens d’accès ont accentués l’effet de demande : plus nous avons, plus nous voulons, et nos désirs sont plus grands que ce nous pouvons réellement avoir. Notre imaginaire n'est plus fait d'abondance mais de rareté.
 
 La production se tourne désormais vers le localisme et fait par belle au crowdfunding. L'impression 3D change notre façon de faire. Le Travail évolue, et la valeur différentiante s'oppose à la valeur complémentaire.
-
-
 
 * ~~Economie: Abondance et rareté. L’énergie est perçue comme symbole de puissance, de pouvoir : il fallait montrer qu'on dépensait de l’énergie, laisser toutes les lumières allumées. Aujourd’hui: Nous sommes dans l'économie de la rareté : la multiplication des biens et des moyens d’accès accentue l’effet de demande : plus nous avons, et plus nous voulons. Position de rareté. Nous sommes passé d'un imaginaire de l’abondance à un imaginaire de la rareté.~~
 
 * ~~Production: Localismes, crowd funding, impression 3D.~~
 
 * ~~Travail: La valeur différentiante s'oppose à la valeur complémentaire.~~
+
 * Possession: Trésor caché vs Transit: accumuler vs produire de la valeur.
 * Savoir: Nous avons produit plus de data en 2012 que dans toute l’histoire de l’humanité.
 * Citoyenneté: émancipation vs relation.
