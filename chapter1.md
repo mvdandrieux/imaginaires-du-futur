@@ -60,7 +60,7 @@ Le modèle automatique. Le corps est une machine. La pensée mathématique et le
 
 Comprendre son époque signifie aussi vivre à travers ses mythes et saisir ce qu'ils disent de leur époque. Le mythe le plus connu de la mythologie, l'Odyssée, écrit par Homère au VIIIe siècle avant J-C, véhicule toutes les valeurs de son époque :
 
-Les Grecs vivent sous l'égide de quatre grandes valeurs 
+Les Grecs vivent sous l'égide de quatre grandes valeurs
 
 1. Les Dieux veulent la guerre / les hommes aiment la guerre
 2. La mesure et le destin
@@ -73,11 +73,29 @@ Mais quel est l'imaginaire de notre époque? C'est en cherchant les mythes dans 
 
 ## Notre imaginaire après la seconde guerre mondiale
 
-Notre monde se métamorphose, par des révolutions minuscules.
+Diviser pour vaincre, diviser pour comprendre de René Descartes, diviser pour régner de Machiavel, diviser pour produire de Taylor, diviser pour habiter de Marx \(la valeur du travail, le travail comme destin, tripalium/oper\)... Inconsciemment, ces divisions ont été le leitmotiv de la modernité.
+
+Modernité, qui est une rationalisation socio-technique, déterminée par une domination et une division. David Riesman parle de "Foule Solitaire", Albert Camus décrit "une fourmilière d'hommes seuls", Martin Buber parle quand à lui de Solitude collective.  
+Pour Augustin Berque : la modernité c'est le vrai, c'est le beau, c'est le bien.
+
+Mais notre monde se métamorphose, sous l'impulsion de révolutions minuscules.
 
 Nous sommes passés d'une économie d'abondance à une économie de la rareté. L’énergie était perçue comme symbole de puissance, de pouvoir : il fallait montrer qu'on la dépensait, laisser toutes les lumières allumées. Aujourd’hui la multiplication des biens et des moyens d’accès ont accentués l’effet de demande : plus nous avons, plus nous voulons, et nos désirs sont plus grands que ce nous pouvons réellement avoir.  
 Notre production se tourne vers le localisme et fait par belle au crowdfunding. L'impression 3D change nos façons de faire. Le Travail évolue, et la valeur différentiante s'oppose à la valeur complémentaire. Les entreprises ne sont plus vues comme comme pourvoyeuses mais prédatrices \(bullshit jobs\).  
 Notre rapport à la possession change, nous n'accumulons plus, nous voulons créer de la valeur. Notre savoir commun grandi, de jour en jour, si bien qu'en 2012, nous avons produit plus de data que dans toute l’histoire de l’humanité.
+
+En 2003, Marcel Bolle de Bal fait émerger 3 notions sociologiques
+
+* la déliance
+* la reliance
+* la liance
+
+Nous pouvons définir notre époque comme un système d'alliance et de reliance, qui cherche à lier, relier ce qui avait été divisé, mais nous n'avons pas encore trouvé notre mythe fondateur, ce qui nous plonge dans une attente collective.  
+Tout ce qu'on peut en dire, c'est qu'il est caractérisé par un certain désenchantement, une synthèse entre l'archaïque et le développement de la technologie et de la technique, une curiosité de faire et de connaître, la prise de conscience des limites du monde.
+
+
+
+
 
 * ~~Economie: Abondance et rareté. L’énergie est perçue comme symbole de puissance, de pouvoir : il fallait montrer qu'on dépensait de l’énergie, laisser toutes les lumières allumées. Aujourd’hui: Nous sommes dans l'économie de la rareté : la multiplication des biens et des moyens d’accès accentue l’effet de demande : plus nous avons, et plus nous voulons. Position de rareté. Nous sommes passé d'un imaginaire de l’abondance à un imaginaire de la rareté.~~
 
@@ -90,31 +108,16 @@ Notre rapport à la possession change, nous n'accumulons plus, nous voulons cré
 * ~~Savoir: Nous avons produit plus de data en 2012 que dans toute l’histoire de l’humanité.~~
 
 * **Citoyenneté: émancipation vs relation.**
+
 * ~~Entreprises: Pourvoyeuse vs Prédatrice \( bullshit jobs\)~~
 
-Diviser pour dominer: valeur de la modernité
 
-En 2003, Marcel Bolle de Bal fait émerger 3 notions sociologiques
 
-* la déliance
-* la reliance
-* la liance
-
-Diviser pour vaincre, diviser pour comprendre de René Descartes, diviser pour régner de Machiavel, diviser pour produire de Taylor, diviser pour habiter de Marx \(la valeur du travail, le travail comme destin, tripalium/oper\)... Inconsciemment, ces divisions ont été le leitmotiv de la modernité.
-
-Modernité, qui est une rationalisation socio-technique, déterminée par une domination et une division. David Riesman parle de "Foule Solitaire", Albert Camus décrit "une fourmilière d'hommes seuls", Martin Buber parle quand à lui de Solitude collective.
-
-Pour Augustin Berque : la modernité c'est le vrai, c'est le beau, c'est le bien.
-
-Par opposition notre époque peut se définir comme un système d'alliance et de reliance.
-
-Le but de l'art moderne n'est pas d'être beau mais de créer un débat, c'est le débat qui fait l'oeuvre. Nous entrons dans une zone de haute pression imaginaire.
+_Le but de l'art moderne n'est pas d'être beau mais de créer un débat, c'est le débat qui fait l'oeuvre. Nous entrons dans une zone de haute pression imaginaire._
 
 Comment connaître son époque ? sanctifier et dévoiler
 
-Attente collective
-
 Resynchroniser la société et le mythe
 
-Le mythe de notre époque est caractérisé par un certain désenchantement, une synthèse entre l'archaïque et le développement de la technologie ainsi que de la technique, une curiosité de faire et de connaître, la prise de conscience des limites du monde.
+
 
