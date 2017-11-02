@@ -10,7 +10,7 @@ Un bon contemporain sait lire dans les époques. Mais il n'est pas obligé d'en 
 
 Quand la diversité s'agrandit, l'époque évolue.
 
-https://www.youtube.com/watch?v=vxlNw-vz7l8
+[https://www.youtube.com/watch?v=vxlNw-vz7l8](https://www.youtube.com/watch?v=vxlNw-vz7l8)
 
 Je m'interrogeais sur la possibilité de travailler avec Franck Ghitalla dans "l'écriture" de ce livre. Si il nous faut parfois prendre des directions, des entre-croisements, des chemins, la cartographie pourrais être un moyen de créer un livre ubiquiste. Capable de retracer nos accords \(synchronies\) mais aussi leurs dissonance. Si nous voulons comprendre notre époque, il nous faut en saisir ses multiples nuances. L'harmonie se décompose toujours.
 
@@ -29,7 +29,7 @@ Une époque, c’est une parenthèse.
 …Aeon / Paradigme / Genius Seculi…
 
 > “Le siècle appartient au principe, et non pas le principe au siècle. Le principe fait l'histoire et non pas l'inverse.” Karl Marx
-
+>
 > “L’imaginaire, c’est l’ensemble des images et des relations d’images qui constitue le capital pensé de l’homo sapiens” Gilbert Durand
 
 En réalité, l'époque se définit par son mythe, par une idée omniprésente qui se diffuse à travers l’état d’esprit collectif, propre à une époque déterminée. Hegel \(1770-1831\), philosophe allemand, avait déjà remarqué cette particularité qui permettait de définir une époque. Il l'a appelé « âme sentante », le Zeitgeist, \_littéralement le "fantôme du temps".\_
@@ -75,10 +75,17 @@ Mais finalement, quel est l'imaginaire de notre époque? C'est en cherchant les 
 
 Les révolutions minuscules :
 
-* Economie: Abondance et rareté. L’énergie est perçue comme symbole de puissance, de pouvoir : il fallait montrer qu'on dépensait de l’énergie, laisser toutes les lumières allumées. Aujourd’hui: Nous sommes dans l'économie de la rareté : la multiplication des biens et des moyens d’accès accentue l’effet de demande : plus nous avons, et plus nous voulons. Position de rareté. Nous sommes passé d'un imaginaire de l’abondance à un imaginaire de la rareté.
+Nous sommes passés d'une économie d'abondance à une économie de la rareté. L’énergie était perçue comme symbole de puissance, de pouvoir : il fallait montrer qu'on la dépensait, laisser toutes les lumières allumées. Aujourd’hui, place à l'économie de la rareté. La multiplication des biens et des moyens d’accès ont accentués l’effet de demande : plus nous avons, plus nous voulons, et nos désirs sont plus grands que ce nous pouvons réellement avoir. Nous sommes passé d'un imaginaire de l’abondance à un imaginaire de la rareté.
 
-* Production: Localismes, crowd funding, impression 3D.
-* Travail: La valeur différentiante s'oppose à la valeur complémentaire.
+La production se tourne désormais vers le localisme et fait par belle au crowdfunding. L'impression 3D change notre façon de faire. Le Travail évolue, et la valeur différentiante s'oppose à la valeur complémentaire.
+
+
+
+* ~~Economie: Abondance et rareté. L’énergie est perçue comme symbole de puissance, de pouvoir : il fallait montrer qu'on dépensait de l’énergie, laisser toutes les lumières allumées. Aujourd’hui: Nous sommes dans l'économie de la rareté : la multiplication des biens et des moyens d’accès accentue l’effet de demande : plus nous avons, et plus nous voulons. Position de rareté. Nous sommes passé d'un imaginaire de l’abondance à un imaginaire de la rareté.~~
+
+* ~~Production: Localismes, crowd funding, impression 3D.~~
+
+* ~~Travail: La valeur différentiante s'oppose à la valeur complémentaire.~~
 * Possession: Trésor caché vs Transit: accumuler vs produire de la valeur.
 * Savoir: Nous avons produit plus de data en 2012 que dans toute l’histoire de l’humanité.
 * Citoyenneté: émancipation vs relation.
@@ -92,9 +99,9 @@ En 2003, Marcel Bolle de Bal fait émerger 3 notions sociologiques
 * la reliance
 * la liance
 
-Diviser pour vaincre, diviser pour comprendre de René Descartes, diviser pour régner de Machiavel, diviser pour produire de Taylor, diviser pour habiter de Marx \(la valeur du travail, le travail comme destin, tripalium/oper\). Cette division a été inconsciemment le leitmotiv de la modernité.
+Diviser pour vaincre, diviser pour comprendre de René Descartes, diviser pour régner de Machiavel, diviser pour produire de Taylor, diviser pour habiter de Marx \(la valeur du travail, le travail comme destin, tripalium/oper\)... Inconsciemment, ces divisions ont été le leitmotiv de la modernité.
 
-La modernité est une rationalisation socio-technique, déterminée par une domination et une division. David Riesman parle de "Foule Solitaire", Albert Camus décrit "une fourmilière d'hommes seuls", Martin Buber parle quand à lui de Solitude collective.
+Modernité qui est une rationalisation socio-technique, déterminée par une domination et une division. David Riesman parle de "Foule Solitaire", Albert Camus décrit "une fourmilière d'hommes seuls", Martin Buber parle quand à lui de Solitude collective.
 
 Pour Augustin Berque : la modernité c'est le vrai, c'est le beau, c'est le bien.
 
@@ -109,6 +116,4 @@ Attente collective
 Resynchroniser la société et le mythe
 
 Le mythe de notre époque est caractérisé par un certain désenchantement, une synthèse entre l'archaïque et le développement de la technologie ainsi que de la technique, une curiosité de faire et de connaître, la prise de conscience des limites du monde.
-
-
 
