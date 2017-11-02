@@ -58,30 +58,26 @@ Le modèle automatique. Le corps est une machine. La pensée mathématique et le
 
 ### L'imaginaire des Grecs anciens
 
-Comprendre son époque signifie aussi vivre à travers ses mythes et saisir ce qu'ils disent de leur époque. Le mythe le plus connu de la mythologie, l'Odyssée écrit par Homère au VIIIe siècle avant J-C, véhicule toutes les valeurs de son époque :
+Comprendre son époque signifie aussi vivre à travers ses mythes et saisir ce qu'ils disent de leur époque. Le mythe le plus connu de la mythologie, l'Odyssée, écrit par Homère au VIIIe siècle avant J-C, véhicule toutes les valeurs de son époque :
 
-Les Grecs vivent sous l'égide de quatre grandes valeurs :
+Les Grecs vivent sous l'égide de quatre grandes valeurs 
 
 1. Les Dieux veulent la guerre / les hommes aiment la guerre
 2. La mesure et le destin
 3. La part des Dieux: accepter qu’une partie de ce qu’on produit ne nous appartient pas
 4. L’hospitalité héréditaire. Chez les Grecs, on reçoit d'abord, on s'enquière d'une demande ou d'informations ensuite.
 
-Mais finalement, quel est l'imaginaire de notre époque? C'est en cherchant les mythes dans lesquels on se reconnait que l'on peut trouver une réponse; le principe de la mythanalyse.
+Mais quel est l'imaginaire de notre époque? C'est en cherchant les mythes dans lesquels on se reconnait que l'on peut trouver une réponse; le principe de la mythanalyse.
 
 > \_ «Lire l’époque au travers des mythes dans lesquels elle se reconnaît.»\_Gilbert Durand
 
 ## Notre imaginaire après la seconde guerre mondiale
 
-Les révolutions minuscules :
+Notre monde se métamorphose, par des révolutions minuscules.
 
-Nous sommes passés d'une économie d'abondance à une économie de la rareté. L’énergie était perçue comme symbole de puissance, de pouvoir : il fallait montrer qu'on la dépensait, laisser toutes les lumières allumées. Aujourd’hui la multiplication des biens et des moyens d’accès ont accentués l’effet de demande : plus nous avons, plus nous voulons, et nos désirs sont plus grands que ce nous pouvons réellement avoir.   
+Nous sommes passés d'une économie d'abondance à une économie de la rareté. L’énergie était perçue comme symbole de puissance, de pouvoir : il fallait montrer qu'on la dépensait, laisser toutes les lumières allumées. Aujourd’hui la multiplication des biens et des moyens d’accès ont accentués l’effet de demande : plus nous avons, plus nous voulons, et nos désirs sont plus grands que ce nous pouvons réellement avoir.  
 Notre production se tourne vers le localisme et fait par belle au crowdfunding. L'impression 3D change nos façons de faire. Le Travail évolue, et la valeur différentiante s'oppose à la valeur complémentaire. Les entreprises ne sont plus vues comme comme pourvoyeuses mais prédatrices \(bullshit jobs\).  
 Notre rapport à la possession change, nous n'accumulons plus, nous voulons créer de la valeur. Notre savoir commun grandi, de jour en jour, si bien qu'en 2012, nous avons produit plus de data que dans toute l’histoire de l’humanité.
-
-  
-  
-
 
 * ~~Economie: Abondance et rareté. L’énergie est perçue comme symbole de puissance, de pouvoir : il fallait montrer qu'on dépensait de l’énergie, laisser toutes les lumières allumées. Aujourd’hui: Nous sommes dans l'économie de la rareté : la multiplication des biens et des moyens d’accès accentue l’effet de demande : plus nous avons, et plus nous voulons. Position de rareté. Nous sommes passé d'un imaginaire de l’abondance à un imaginaire de la rareté.~~
 
@@ -92,6 +88,7 @@ Notre rapport à la possession change, nous n'accumulons plus, nous voulons cré
 * ~~Possession: Trésor caché vs Transit: accumuler vs produire de la valeur.~~
 
 * ~~Savoir: Nous avons produit plus de data en 2012 que dans toute l’histoire de l’humanité.~~
+
 * **Citoyenneté: émancipation vs relation.**
 * ~~Entreprises: Pourvoyeuse vs Prédatrice \( bullshit jobs\)~~
 
@@ -105,7 +102,7 @@ En 2003, Marcel Bolle de Bal fait émerger 3 notions sociologiques
 
 Diviser pour vaincre, diviser pour comprendre de René Descartes, diviser pour régner de Machiavel, diviser pour produire de Taylor, diviser pour habiter de Marx \(la valeur du travail, le travail comme destin, tripalium/oper\)... Inconsciemment, ces divisions ont été le leitmotiv de la modernité.
 
-Modernité qui est une rationalisation socio-technique, déterminée par une domination et une division. David Riesman parle de "Foule Solitaire", Albert Camus décrit "une fourmilière d'hommes seuls", Martin Buber parle quand à lui de Solitude collective.
+Modernité, qui est une rationalisation socio-technique, déterminée par une domination et une division. David Riesman parle de "Foule Solitaire", Albert Camus décrit "une fourmilière d'hommes seuls", Martin Buber parle quand à lui de Solitude collective.
 
 Pour Augustin Berque : la modernité c'est le vrai, c'est le beau, c'est le bien.
 
