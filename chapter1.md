@@ -12,7 +12,7 @@ Quand la diversité s'agrandit, l'époque évolue.
 
 [https://www.youtube.com/watch?v=vxlNw-vz7l8](https://www.youtube.com/watch?v=vxlNw-vz7l8)
 
-Je m'interrogeais sur la possibilité de travailler avec Franck Ghitalla dans "l'écriture" de ce livre. Si il nous faut parfois prendre des directions, des entre-croisements, des chemins, la cartographie pourrais être un moyen de créer un livre ubiquiste. Capable de retracer nos accords \(synchronies\) mais aussi leurs dissonance. Si nous voulons comprendre notre époque, il nous faut en saisir ses multiples nuances. L'harmonie se décompose toujours.
+Je m'interrogeais sur la possibilité de travailler avec Franck Ghitalla dans "l'écriture" de ce livre. Si il nous faut parfois prendre des directions, des entre-croisements, des chemins, la cartographie pourrait être un moyen de créer un livre ubiquiste. Capable de retracer nos accords \(synchronies\) mais aussi leurs dissonance. Si nous voulons comprendre notre époque, il nous faut en saisir ses multiples nuances. L'harmonie se décompose toujours.
 
 "Il faut du chaos en soi pour faire naitre une étoile qui danse." Friedrich Nietzsche.
 
@@ -93,10 +93,6 @@ En 2003, Marcel Bolle de Bal fait émerger 3 notions sociologiques
 Nous pouvons définir notre époque comme un système d'alliance et de reliance, qui cherche à lier, relier ce qui avait été divisé, mais nous n'avons pas encore trouvé notre mythe fondateur, ce qui nous plonge dans une attente collective.  
 Tout ce qu'on peut en dire, c'est qu'il est caractérisé par un certain désenchantement, une synthèse entre l'archaïque et le développement de la technologie et de la technique, une curiosité de faire et de connaître, la prise de conscience des limites du monde.
 
-
-
-
-
 * ~~Economie: Abondance et rareté. L’énergie est perçue comme symbole de puissance, de pouvoir : il fallait montrer qu'on dépensait de l’énergie, laisser toutes les lumières allumées. Aujourd’hui: Nous sommes dans l'économie de la rareté : la multiplication des biens et des moyens d’accès accentue l’effet de demande : plus nous avons, et plus nous voulons. Position de rareté. Nous sommes passé d'un imaginaire de l’abondance à un imaginaire de la rareté.~~
 
 * ~~Production: Localismes, crowd funding, impression 3D.~~
@@ -111,13 +107,9 @@ Tout ce qu'on peut en dire, c'est qu'il est caractérisé par un certain désenc
 
 * ~~Entreprises: Pourvoyeuse vs Prédatrice \( bullshit jobs\)~~
 
-
-
 _Le but de l'art moderne n'est pas d'être beau mais de créer un débat, c'est le débat qui fait l'oeuvre. Nous entrons dans une zone de haute pression imaginaire._
 
 Comment connaître son époque ? sanctifier et dévoiler
 
 Resynchroniser la société et le mythe
-
-
 
